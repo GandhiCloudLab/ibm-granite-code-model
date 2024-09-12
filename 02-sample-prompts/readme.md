@@ -338,7 +338,7 @@ if __name__ == '__main__':
 ```
 Add documentation for method @withdraw 
 ```
-Here `withdraw` is function name.
+Here `withdraw` is the function name.
 
 It will generate the below code with the documentation.
 
