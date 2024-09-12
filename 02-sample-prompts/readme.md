@@ -337,10 +337,11 @@ if __name__ == '__main__':
 
 ```
 Add documentation for method @withdraw 
-    where withdraw is function name.
 ```
+Here `withdraw` is function name.
 
 It will generate the below code with the documentation.
+
 ```
 def withdraw(self, amount):
         """Withdraw money from the account."""
