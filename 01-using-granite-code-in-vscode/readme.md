@@ -1,5 +1,5 @@
 
-# IBM Granite.Code Installation 
+# Using IBM Granite.Code in VS code
 
 The article explains about how to install `IBM Granite.Code` plugin in VS code and how to use it to genreate the code.
 
